@@ -57,4 +57,3 @@ def ask_question
   %x( say #{QUESTIONS.sample}) 
 end
 
-binding.pry
